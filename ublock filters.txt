@@ -1,4 +1,5 @@
-! adblock
+! adblock 
+! userResourcesLocation https://raw.githubusercontent.com/pixeltris/TwitchAdSolutions/master/notify-strip/notify-strip-ublock-origin.js
 twitch.tv##+js(twitch-videoad)
 
 ! retirar os alertas e desabilitar links em nova aba
