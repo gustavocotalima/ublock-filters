@@ -1,0 +1,11 @@
+! adblock
+twitch.tv##+js(twitch-videoad)
+
+! retirar os alertas e desabilitar links em nova aba
+futemax.gratis##.msgWS
+futemax.gratis##.alertWS
+futemax.gratis##+js(disable-newtab-links.js)
+
+!remover step do volume
+music.youtube.com##+js(ra.js, step, tp-yt-paper-slider)
+
