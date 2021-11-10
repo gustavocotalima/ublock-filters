@@ -10,3 +10,5 @@ futemax.gratis##+js(disable-newtab-links.js)
 !remover step do volume
 music.youtube.com##+js(ra.js, step, tp-yt-paper-slider)
 
+!overleaf remove premium warn
+www.overleaf.com##.small.symbol-palette-overlay
